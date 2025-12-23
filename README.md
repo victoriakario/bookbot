@@ -1,2 +1,3 @@
 # bookbot
-Boot.dev project that counts occurrences of letters in entire book texts
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
